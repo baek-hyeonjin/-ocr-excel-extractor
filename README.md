@@ -1,2 +1,19 @@
-# -ocr-excel-extractor-Description
-엑셀 OCR 추출 및 DB 저장 자동화 - Python
+# OCR Excel Extractor
+
+엑셀 파일 OCR 추출 및 DB 자동 저장 시스템
+
+## 기술 스택
+- Python
+- OCR 처리
+- 데이터 정제 및 파싱
+- DB 설계 및 저장
+
+## 주요 기능
+- 엑셀 파일 OCR 텍스트 추출
+- 추출 데이터 정제 및 가공
+- DB 자동 저장 파이프라인
+- 대용량 파일 처리 자동화
+
+## 성과
+- 수동 데이터 입력 작업 자동화
+- 실서비스 적용 및 운영 중
